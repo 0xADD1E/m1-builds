@@ -1,0 +1,2 @@
+bin/ImageOptim.app.zip filter=lfs diff=lfs merge=lfs -text
+bin/Revolution.app.zip filter=lfs diff=lfs merge=lfs -text
